@@ -1,4 +1,4 @@
-# ☕ Coffee Shop Productivity Agent
+# Coffee Shop Productivity Agent
 
 AI-powered coffee shop productivity assistant built using Google Agent Development Kit (ADK), Gemini, Cloud Run, Google Sheets, and a secure sandbox to analyze business data and perform daily tasks.
 
