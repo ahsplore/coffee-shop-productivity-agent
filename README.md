@@ -24,4 +24,3 @@ ADK Agent
    └──► Sandbox
 ```
 
-> Developed as part of the Google GenAI Academy
